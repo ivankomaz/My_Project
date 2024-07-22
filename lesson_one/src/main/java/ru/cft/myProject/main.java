@@ -1,4 +1,4 @@
-package ru.cft.myProject.lessonOne;
+package ru.cft.myProject;
 
 import java.util.Scanner;
 

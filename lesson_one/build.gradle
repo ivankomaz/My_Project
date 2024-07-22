@@ -1,5 +1,10 @@
 plugins {
     id 'java'
+    id 'application'
+}
+
+ext{
+    javaMainClass = 'ru.cft.myProject.main'
 }
 
 group 'ru.cft.lessons'
@@ -17,3 +22,5 @@ dependencies {
 test {
     useJUnitPlatform()
 }
+
+mainClassName = "ru.cft.myProject.main"
