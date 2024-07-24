@@ -8,4 +8,6 @@
 rootProject.name = 'my_project'
 include 'lesson_one'
 include 'lesson_one'
+include 'lesson_two'
+include 'lesson_three'
 
